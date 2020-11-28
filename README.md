@@ -16,6 +16,8 @@
   <p> • 👥 At <a href="https://www.linkedin.com/in/lucasalme1da/">LinkedIn</a>!</p>
 </div>
 
+<br/>
+
 <h2>🔧 Technologies & Tools</h2>
 
 <p align="center">
@@ -30,7 +32,6 @@
 </p>
 
 <br/>
-<br/>
 
 <h2>📊 GitHub Stats</h2>
 <p align="center"> 
@@ -41,7 +42,7 @@
     <img height="180px"src="https://github-readme-stats.vercel.app/api?username=lucasalme1da&show_icons=true&line_height=27&count_private=true&title_color=fff&text_color=c9cacc&icon_color=da1e5b&bg_color=0e0e0e" alt="Martin's GitHub Stats" />
   </a>
 </p>
-<br/>
+
 <br/>
 
 <h2>🧪 My Projects</h2>
