@@ -1,9 +1,4 @@
-<p align="center">
-  <img alt="Lucas Almeida" src="./assets/grey-header.gif"/>
-</p>
-
-<br/>
-
+<img alt="Lucas Almeida" src="./assets/grey-header.gif"/>
 <h2>👀 About me </h2> 
 <div>
   <h3>Hi there, welcome to my profile! I am ... </h3>
@@ -20,9 +15,6 @@
 
   <p> • 👥 At <a href="https://www.linkedin.com/in/lucasalme1da/">LinkedIn</a>!</p>
 </div>
-
-<br/>
-<br/>
 
 <h2>🔧 Technologies & Tools</h2>
 
