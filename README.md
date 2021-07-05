@@ -5,7 +5,7 @@
 
   <br/>
 
-  <p> • 🔭 Working with <strong>React</strong> and <strong>React Native</strong> in the project sector at <a href="https://fb.com/unectjr">Unect Jr</a>;</p>
+  <p> • 🔭 Working with <strong>React</strong> and <strong>React Native</strong>;</p>
 
   <p> • 🎓 Studying <strong>Computer Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
 
