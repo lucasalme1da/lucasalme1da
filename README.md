@@ -5,16 +5,16 @@
 
   <br/>
 
-  <p> • 🔭 Working with <strong>React</strong> and <strong>React Native</strong>;</p>
+  <p> • 🎓 Graduated in <strong>Computer Engineering</strong> (<a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>);</p>
 
-  <p> • 🎓 Studying <strong>Computer Engineering</strong> at the <a href="http://portal.utfpr.edu.br/english">Federal Technological University of Paraná</a>;</p>
+  <p> • 🔭 Working with <strong>Typescript</strong>, <strong>React</strong> and <strong>React Native</strong>;</p>
 
-  <p> • 📚 Learning more about <strong>React</strong>, <strong>Typescript</strong> and other stuff on the Front End world of knowledge (and a couple things about Back End too :P);</p>
+  <p> • 📚 Learning more about frontend, backend and devops every day;</p>
 
-  <p> • 👾 Listening to music when coding and playing some games at spare time;</p>
-
-  <p> • 👥 At <a href="https://www.linkedin.com/in/lucasalme1da/">LinkedIn</a>!</p>
+  <p> • 👾 Listening to music when coding (and playing some games hardly ever);</p> 
 </div>
+
+<p> Feel free to send me a message at 👥 <a href="https://www.linkedin.com/in/lucasalme1da/">LinkedIn</a>! :) </p>
 
 <br/>
 
