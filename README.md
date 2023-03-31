@@ -14,7 +14,7 @@
   <p> • 👾 Listening to music when coding (and playing some games hardly ever);</p> 
 </div>
 
-<p> Feel free to send me a message at 👥 <a href="https://www.linkedin.com/in/lucasalme1da/">LinkedIn</a>! :) </p>
+<p> Feel free to send me a message on 👥 <a href="https://www.linkedin.com/in/lucasalme1da/">LinkedIn</a>! :) </p>
 
 <br/>
 
